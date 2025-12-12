@@ -1,0 +1,13 @@
+{
+  "self_consistency": {
+    "method": "self_consistency",
+    "accuracy": 0.56,
+    "correct": 56,
+    "total": 100,
+    "params": {
+      "model": "gpt-4o-mini",
+      "n_samples": 7,
+      "temperature": 0.7
+    }
+  }
+}

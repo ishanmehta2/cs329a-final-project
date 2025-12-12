@@ -1,0 +1,20 @@
+{
+  "position_debiased": {
+    "method": "position_debiased",
+    "accuracy": 0.6460674157303371,
+    "correct": 115,
+    "total": 178,
+    "params": {
+      "model": "gpt-4o-mini",
+      "models": [
+        "gpt-4o-mini",
+        "llama-70b"
+      ],
+      "n_samples": 5,
+      "temperature": 0.7,
+      "fallback": "skip"
+    },
+    "consistency_rate": 1.0,
+    "consistent_count": 200
+  }
+}

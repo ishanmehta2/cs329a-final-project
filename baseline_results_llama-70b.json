@@ -1,0 +1,7 @@
+{
+  "llama-70b": {
+    "description": "Llama 3.3 70B (Together AI)",
+    "avg_accuracy": 0.53,
+    "num_runs": 1
+  }
+}
